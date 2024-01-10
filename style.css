@@ -1,0 +1,17 @@
+.margin_t{
+    margin-top: 1%;
+}
+.form_prop{
+    background-color: azure;
+    padding: 10px;
+}
+.button_al{
+    text-align: center;
+    justify-content: center;
+}
+.form_color{
+    background-color: rgb(202, 188, 216);
+}
+#heading{
+    text-align: center;
+}
